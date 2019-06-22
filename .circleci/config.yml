@@ -15,7 +15,7 @@ jobs:
           command: fastlane scan
           environment:
             SCAN_DEVICE: iPhone 6
-            SCAN_SCHEME: TDDTests
+            SCAN_SCHEME: WebTests
 
 workflows:
   version: 2
